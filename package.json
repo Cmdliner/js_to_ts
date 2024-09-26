@@ -1,0 +1,13 @@
+{
+  "name": "intro_to_types",
+  "version": "1.0.0",
+  "description": "Outlining the benefits of typescript and how it improves developer experience and makes it easy to catch bugs",
+  "main": "index.js",
+  "scripts": {
+    "ts": "tsc ts/index.ts",
+    "js": "node js/index.js"
+
+  },
+  "author": "",
+  "license": "ISC"
+}
